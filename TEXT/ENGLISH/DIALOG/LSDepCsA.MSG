@@ -1,0 +1,9 @@
+{102}{}{You can't use this during combat.}
+{103}{}{You don't need this terminal anymore.}
+
+{190}{}{Barrels are in place. One spark - and the gates will be blown to pieces!}
+{191}{}{This is control terminal for hangar's crane. Too bad it doesn't work, since power supply is absent.}
+{192}{}{This is control terminal for hangar's crane. However, your attempts to influence the crane from it are unsuccessfull. Apparently, there is a break somewhere in the hangar's electric wires.}
+{193}{}{[Leave]}
+{194}{}{The terminal lights up different lights. Brushing off the dust and sand from the toggle switches, you see the inscriptions. Yes, you can use it.}
+{195}{}{[Move the fuel barrels to the gate with a crane]}

@@ -1,0 +1,102 @@
+{100}{}{You see Sergeant Graves.}
+{101}{}{You see Peter Graves, head of Vault City's security service.}
+{102}{}{What happened here?!}
+{103}{}{Not long before you came back, the city was attacked.}
+
+#Общая ве'вь диалога вне квес'ов:
+{110}{}{Nothing more to report. You will have to act by yourself from now on.}
+{111}{}{Take care.}
+{112}{}{Who is that weird guy in the cell?}
+
+{113}{}{I sometimes have dreams that I'm part of the first team to go outside the vault. Has anything like this ever happened to you?}
+{114}{}{No. Like all other normal citizens, I've never had any dreams. I've heard that Doctor Willmouth encountered this anomaly a few times, but I never paid any attention to it. Neither should you; it's probably nothing.}
+{115}{}{Ok.}
+
+#Диплома' из Лавлок:
+{140}{}{I came across some interesting documents in Lovelock's radio station. I thought they might be of interest to you.}
+{141}{}{[Carefully studies the documents] Hmm. According to this, our vault has been under surveillance for a long time. The station secured communication between our vault systems and some governmental vault. Consider this information classified! Common citizens should not know about this, but we'll put them to work securing our systems. Thank you for this valuable intelligence. Continue your mission.}
+{142}{}{Of course.}
+
+#С'ар'овый диалог:
+{150}{}{I see you're feeling better. Doctor Willmouth did a great job getting you back on your feet. He recommended to not give you any assignments, but we have no choice. Something terrible has happened - something we should have expected an outsider to do.}
+{151}{}{What are you talking about?}
+{152}{}{It seems the man that brought you back to Vault City only did so in order to infiltrate the vault. He stole a device, that we depend on to provide security and prosperity, and we can't catch up to his vehicle on foot. As the only citizen to have traveled far outside the city, you're the only one we can entrust with this task.}
+{153}{}{I understand what you're saying, but I can't remember anything. I need to know more about what happened.}
+{154}{}{Of course. Doctor Willmouth warned us about your amnesia. I'll tell you everything.}
+{155}{}{Tell me.}
+{156}{}{Some biker calling himself "Jay Kukish" brought your body to the city. He demanded to see the Overseer, who spoke with him, while Doctor Willmouth tended to you. After a long conversation, the biker used some sort of neutralization weapon to knock the guards and the Overseer unconscious. Then he stole the device and fought his way out of the city. Are there any other questions?}
+{157}{}{Yes, I have another question.}
+{158}{}{No more questions.}
+
+{159}{}{Good. Did you want to ask something?}
+{160}{}{Tell me everything you know about Jay Kukish.}
+{161}{}{Tell me more about that stolen device.}
+{162}{}{How can I find that biker?}
+{163}{}{Will I get any gear for my travels?}
+{164}{}{What to expect in the outside world?}
+{165}{}{What if I refuse to help?}
+{166}{}{}
+{167}{}{}
+{168}{}{Okay. Another question.}
+{169}{}{I think that's all I wanted to know.}
+
+{170}{}{He wears dirty leather jacket with a symbol of a flaming skull on its back. He could have changed his clothes, but he smelled like he doesn't do that often. He is rude and aggressive, and, apparently, only cares about our technology. He came and left on a motorcycle. That is all I can tell you about him.}
+{171}{}{I don't know what that device is called, nor its exact function. But, from the reports, you can tell that it's required for our automatic defense, and some other systems. Without it, we are vulnerable to outside attacks.}
+{172}{}{I recommend following his tire tracks. Our patrols report that they lead to Black Rock, located south-east from here. The local population should know more.}
+{173}{}{The Overseer did not assign you any gear, but the warehouse has everything we found on you. Perhaps another citizen can lend you something.}
+{174}{}{I have little information to give you. Our scouts have reported outsider towns in the local region... If you can call them towns. Sometimes we make contact with travelers in the wastes, but we usually try to scare them off. They do not belong here.}
+{175}{}{You don't have a choice. Your citizenship has been suspended, until you return the device. You may enter Vault City and receive medical assistance, but little else.}
+{176}{}{He says he's a caravan merchant, traveling between Nevada and California. Our patrols arrested him when he was scouting our perimeter. He says he was searching for a nuclear plant. I believe him, but we must still be wary of outsiders. Doctor Willmouth says he was exposed to some sort of virus, poor guy. But you don't need to worry about him. Get back to your duties.}
+
+{186}{}{Well, good luck. Stop by the warehouse to pick up your belongings. And remember, be wary of people in the wastes. Do not mention the existence of this city to anyone. That is all.}
+{187}{}{Consider it done, sir!}
+{188}{}{You received new quest. Open your Pip-Boy to check its status.}
+
+#Fuse
+{200}{}{I need a replacement fuse for a water pump, but I've been denied. Can you help me?}
+{201}{}{You'd better have a good reason for this.}
+{202}{}{Gerlach needs a replacement part for their water pump. I want to help them.}
+{203}{}{[Lie] I have a contact outside the city. He wants the fuse in exchange for information.}
+{204}{}{I don't have any good reasons, but I'll find them!}
+{205}{}{}
+{206}{}{}
+
+{207}{}{I hope you know what you're doing. We can't just give our technology away. I will put in an order to the warehouse for you. Now go.}
+{208}{}{Thanks.}
+
+{209}{}{Gerlach? The community to the south? Why would we give them anything? Anyway, Sergeant Stark is responsible for the south sector. You can find him in the building across the street.}
+{210}{}{Thank you. I'll go find the sergeant.}
+
+#Про нападение Собира'еля Душ
+{300}{}{What an odd coincidence - just when our city is in trouble again, you show up.}
+{301}{}{What happened here?}
+{302}{}{We were attacked. Everything happened so fast - the attackers seized the Overseer and dragged him outside the city's perimeter.}
+{303}{}{I have a bad feeling about this. Too many coincidences to be random.}
+{304}{}{Tell me everything.}
+{305}{}{I managed to track down the biker and take back the device. Some people were following and watching us. My Pip-Boy was bugged. Someone's been operating behind our backs, Sergeant. And they've been doing it for a long time.}
+
+{306}{}{Hmm... The Overseer warned me about this, but I didn't understand him then. It was off the record and behind closed doors. The Overseer said that changes are coming and we must be ready.}
+{307}{}{Tell me more about the attack.}
+{308}{}{We were attacked by a group of armed people in combat armor. They entered the city using some sort of paralyzing device and took the Overseer, while we were unconscious. As they were leaving, a few guards managed to shake off the paralysis, but were killed on the spot.}
+{309}{}{What do they want with the Overseer?}
+{310}{}{We cannot know for sure. My guess is it has something do with with the device and what he knows about it. He's the only one in the vault with access to that information. Whatever they want, they took him too far for us to follow.}
+{311}{}{I managed to find the device. Here, look.}
+{312}{}{Yes, this seems to be the stolen device. But only the Overseer knows how to use it.}
+{313}{}{What are you suggesting?}
+{314}{}{The Overseer knows information about the vault that no one else does. Information that would be extremely dangerous in the wrong hands. That's why we must stop the abductors at *any* cost. You... Understand, don't you, citizen?}
+{315}{}{It looks like I have a new mission.}
+
+{316}{}{Good. There's no one else I can trust with this. No one else has your knowledge of the wastes.}
+{317}{}{Any more clues?}
+{318}{}{We've managed to determine that the abductors are traveling using train. Our radar tracked the Overseer's Pip-Boy until it got out of range. Perhaps this information will be useful if you find another radio station.}
+{319}{}{Understood. I'll see what I can do.}
+{320}{}{You are our last hope, citizen.}
+{321}{}{Yeah, sure. First you suspend my citizenship and kick me out of the city, and now suddenly I'm your last hope! Great, whatever, I'll take care of everything. Again.}
+{322}{}{I understand. I hope, when this is over, everything goes back to the way it was. See you soon, Sergeant.}
+{323}{}{}
+{324}{}{Kill the Overseer?! Are you out of your mind?!}
+{325}{}{We have no choice. The Overseer knows everything about the city. His knowledge is a weapon that could kill us all.}
+
+#Female character:
+{1314}{}{The Overseer knows information about the vault that no one else does. Information that would be extremely dangerous in the wrong hands. That's why we must stop the abductors at *any* cost. You... Understand, don't you, citizen?}
+{1320}{}{You are our last hope, citizen.}

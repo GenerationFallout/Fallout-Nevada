@@ -1,0 +1,3 @@
+{100}{}{You entered the residential area. It seems people here are not used to outsiders.}
+{101}{}{You entered the railroad junction area. From the first look, it seems like it has been abandoned for a long time.}
+{102}{}{You found a big stationary science installation. You wonder if it still works.}

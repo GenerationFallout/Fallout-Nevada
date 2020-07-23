@@ -1,0 +1,2 @@
+{100}{}{You see... An executor!}
+{101}{}{You see a huge guy with a bag on his head and in a dirty apron. In some other circumstances, he could be taken for a butcher, but this time he's an executor.}

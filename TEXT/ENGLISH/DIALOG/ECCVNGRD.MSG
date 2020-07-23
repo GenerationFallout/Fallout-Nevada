@@ -1,0 +1,13 @@
+{100}{}{You see a guard.}
+{101}{}{You see one of the guards, they guard the caravan with you.}
+
+{200}{}{You see a caravan merchant.}
+{201}{}{You see one of your fellow travelers on the caravan.}
+
+{300}{}{I hope we won't meet anyone else on the road.}
+{301}{}{It'll be nice to get our money in the end.}
+{302}{}{I hope when we arrive, the bar will be open.}
+{303}{}{It's good to finally eat real food.}
+{304}{}{I always wanted to travel. I think it's the closest thing to traveling.}
+{305}{}{My feet are killing me. And why these stupid brahmin walk so slow?}
+{306}{}{They say, we are not so far from our destination.}

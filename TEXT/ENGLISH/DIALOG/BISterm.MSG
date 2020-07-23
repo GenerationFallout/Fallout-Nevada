@@ -1,0 +1,12 @@
+{100}{}{You see a terminal.}
+{101}{}{You see a working terminal.}
+
+{102}{}{The computer does not turn on. Apparently, it just doesn't have enough power.}
+{103}{}{[Shutdown]}
+{104}{}{This terminal lights up with all the bulbs, then they fade out and the main monitor turns on. It's amazing how this is still working.}
+{105}{}{[Follow the tracker signal from Overseer's Pip-Boy]}
+{106}{}{[Check radio]}
+{107}{}{You hear only "white noise".}
+
+{110}{}{There is a signal! The green dot is moving quickly to the north-east of the Salt Lake. You will not be able to catch up with the kidnappers even by car. Soon the signal will come out of the radar coverage.}
+{111}{}{It looks like that you will have to find some kind of transport to keep up with them by rail. Maybe there is something in Salt Lake?}

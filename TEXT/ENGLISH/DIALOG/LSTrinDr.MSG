@@ -1,0 +1,23 @@
+{100}{}{You see a door of the train.}
+{101}{}{This train will not budge - its last journey came to an end.}
+
+{110}{}{The train is well preserved under the roof of the hangar.}
+{111}{}{[Start the train]}
+{112}{}{[Assess the situation]}
+{113}{}{[Check train systems]}
+{114}{}{[Leave]}
+
+{120}{}{It seems that the train is serviceable and ready to go.}
+{121}{}{It seems that the train is okay, but the onboard computer is not working. It’s difficult to say why. Qualified maintenance is required.}
+{122}{}{[Dismantle an inoperative onboard computer]}
+{123}{}{[Install the functional onboard computer]}
+{124}{}{Done.}
+{125}{}{You install the onboard computer and press the button in anticipation. The screen lights up brightly with green light. For a few minutes you look at message "checking up systems...", then the screen at last notifies you that the status of the trains is functional.}
+{126}{}{This train is created by modern pre-war technology. The interface is pretty simple, but even if you manage to start the train it will be hard to keep an eye on complex reactor system and other important parameters and metrics at the same time. You will have to find an assistant.}
+
+{130}{}{The train is ready to go, but you can't do it alone. You will have to look for the driver.}
+{131}{}{The train is ready to go, but you won't be able to speed it up to knock out the gates of the hangar. You must find a way to open the gate.}
+{132}{}{The train is ready to move, but where to go?}
+{133}{}{The train is ready for dispatch.}
+{134}{}{Go!}
+{135}{}{The train is nonfunctional.}

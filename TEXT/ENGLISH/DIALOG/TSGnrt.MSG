@@ -1,0 +1,20 @@
+{100}{}{You see a controller.}
+{101}{}{You see a substation to base building power supply controller. Damaged.}
+{102}{}{You see a substation to base building power supply controller. It hums and the current flows.}
+
+{103}{}{The controller has some wires and parts burnt. Need to find a replacement for repair.}
+{104}{}{Need to replace the part}
+{105}{}{This equipment is in working condition and doesn't need repair.}
+{106}{}{Everything is in order.}
+
+{107}{}{It is hardly appropriate here.}
+{108}{}{It's useless}
+
+{109}{}{This generators needs a parts replacement, not recharge.}
+{110}{}{Done}
+{111}{}{Without replacing some parts, you can't repair the generator.}
+
+{112}{}{You have replaced the damaged parts of the generator. Now the nearest buildings are receiving electricity.}
+
+{114}{}{Your repair skills are not good enough.}
+{115}{}{Can't do that}

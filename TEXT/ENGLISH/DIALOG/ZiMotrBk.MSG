@@ -1,0 +1,8 @@
+{100}{}{Articles about "Chryslus Motors" cars were very helpful. You reduced the load on the vehicle and slightly increased the speed and trunk load limit.}
+{101}{}{10 percent is serious business!}
+{102}{}{Now this magazine is useless.}
+{103}{}{With the help of this magazine, you could improve your pickup quite well, but this requires a professional toolbox, that you do not have.}
+{104}{}{Need toolbox}
+{105}{}{With the help of this magazine, you could improve your pickup quite well, but this requires a professional toolbox and... The car itself.}
+{106}{}{Your repair skills are not good enough.}
+{107}{}{Something's unclear...}

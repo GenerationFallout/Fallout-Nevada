@@ -1,0 +1,2 @@
+{100}{}{The vault was destroyed. Evidence of violence and gunfire make it clear what happened.}
+{101}{}{Prolonged sexual abstinence caused a hormonal explosion in your body.}

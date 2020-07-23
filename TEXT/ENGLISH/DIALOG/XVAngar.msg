@@ -1,0 +1,2 @@
+{100}{}{You see a big hangar full of remains of unrest bodies. On the other side there's barely visible vault door.}
+{101}{}{You're in lower level of the vault. Darkness consumed this place as the last person has gone.}
